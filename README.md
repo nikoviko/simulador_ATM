@@ -1,3 +1,4 @@
+
 # ATM Simulator
 
 esse projeto é um simulador de caixa eletrônico (ATM) em Java. Ele permite que múltiplos usuários realizem operações bancárias como login, saque, depósito e consulta de saldo. Os dados dos usuários são armazenados em um arquivo de texto.
