@@ -1,0 +1,5 @@
+Usuário1;senha1;1000.0
+Usuário2;senha2;500.0
+Usuário3;senha3;750.0
+eric;123;21.0
+oi;13;45.0
